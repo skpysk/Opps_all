@@ -1,0 +1,1 @@
+resmon.exe   this code can stope running file for copy your file and name and paste in cpu end exe
